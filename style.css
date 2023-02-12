@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+background-color: aquamarine;
+text-align: center;
+color:brown;
+
+}
+.task{
+    background-color: rgb(146, 91, 23);
+    margin: 1rem;
+    text-align: center;
+}
+#search{
+    background-color: #4CAF50; /* Green */
+  border-radius: 50%;
+  color: rgb(133, 12, 68);
+  padding: 15px 32px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 15px;
+    margin: 6px 0;
+    box-sizing: border-box;
+    
+  }
